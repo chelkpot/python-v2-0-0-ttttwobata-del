@@ -2,7 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    a = input().strip()
+    b = input().strip()
+    c = input().strip()
+    print(f"{a}---{b}---{c}")
 
     
 
